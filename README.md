@@ -10,9 +10,9 @@ This is a hands-on project from the Udemy course - Beginner React. Create a Comp
 # Demo
 
 <div align="center">
-  <img src=".demo/demo 1" />
-  <img src=".demo/demo 2" />
-  <img src=".demo/demo 3" />
+  <img src=".demo/demo 1.png" />
+  <img src=".demo/demo 2.png" />
+  <img src=".demo/demo 3.png" />
 </div>
 
 You can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
@@ -32,7 +32,7 @@ Follow the instructions below to set up the environment and run this project on 
 
 ```bash
 # Clone repository
-$ git clone https://github.com/ViniUK00/React-Expenses-Tracking-App.git
+$ git clone https://github.com/ViniUK00/Form-Validation-Component.git
 ```
 
 2. Install dependencies via NPM or Yarn
