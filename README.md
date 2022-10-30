@@ -10,9 +10,9 @@ This is a hands-on project from the Udemy course - Beginner React. Create a Comp
 # Demo
 
 <div align="center">
-  <img src="demo/demo 2.PNG" />
-  <img src="demo/demo1.PNG" />
   <img src="demo/demo 3.PNG" />
+  <img src="demo/demo1.PNG" />
+  <img src="demo/demo 2.PNG" />
 </div>
 
 You can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
